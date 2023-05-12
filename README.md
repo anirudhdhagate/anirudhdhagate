@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anirudhdhagate
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Web Development.
+- 🌱 I’m currently learning Data Science.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: adhagate@gmail.com
 
 <!---
